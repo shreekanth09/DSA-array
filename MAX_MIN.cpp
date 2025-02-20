@@ -33,7 +33,7 @@ int main(){
    cout << "min value is : "<<resu<<endl;
    return 0;
 
-             //OT WORKING OF TAKING ARRAY'S INPUT
+            
 // int sz;
 // cin>>sz;
 // int arr[100];
